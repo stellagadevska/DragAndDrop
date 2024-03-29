@@ -1,10 +1,7 @@
 # DragAndDrop
 
 The user can **Add Project** with a **Title**, **Description** and number of **People** that are going to work on it.
-
-
-
-
+The projects can be put in two categories - **Active** and **Finished**.
 
 ## To run the application locally
 
